@@ -43,4 +43,3 @@ You only need a modern web browser (Chrome, Firefox, Safari, Edge) to run this p
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
 
 ---
-*Note: Since the provided screenshot was attached via chat, please save the image you shared as `preview.png` in the root folder of this project for it to display correctly in this README.*
